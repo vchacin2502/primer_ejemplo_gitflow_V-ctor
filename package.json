@@ -1,0 +1,23 @@
+{
+  "name": "primer_ejemplo_gitflow_v-ctor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vchacin2502/primer_ejemplo_gitflow_V-ctor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vchacin2502/primer_ejemplo_gitflow_V-ctor/issues"
+  },
+  "homepage": "https://github.com/vchacin2502/primer_ejemplo_gitflow_V-ctor#readme",
+  "dependencies": {
+    "mongoose": "^8.19.2"
+  }
+}
